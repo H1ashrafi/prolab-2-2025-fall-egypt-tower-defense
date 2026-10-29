@@ -1,0 +1,30 @@
+SİMÜLASYON GÜNLÜĞÜ
+------------------
+Simülasyon Başladı. Senaryo: Roma Birliklerini Yen
+Ra'nın Kanı:100 Sikke:200
+Tarih:4.12.2025 16:16:27
+
+
+Dalga 1 Başladı. (Tip: Atlı=2/Gladyator=1/Bocek=2, Sayı: 5)
+Kullanıcı, (-3,38658, 4,32468) konumuna 'Piramit' inşa etti. Kalan Para: 150.
+Kullanıcı, (-7,63658, 0,40468) konumuna 'Bulut' inşa etti. Kalan Para: 80.
+Kullanıcı, (0,9634199, 1,59468) konumuna 'Gunes' inşa etti. Kalan Para: 5.
+Dalga 1'in ilk birliği: 'AtArabası' haritaya giriyor.
+AtArabası haritaya girdi(50 Can).
+--- AtArabasi VURULDU: Bulut yıldırımla çarparak düşmanları dondurdu (Taban Hasar: 15) -> Zırh Koruması Sonrası Net Hasar: 15,0. [Kalan Can: 35,0]
+Buz kulesi 'AtArabasi' üzerine yavaşlatma uyguladı.
+AtArabası haritaya girdi(50 Can).
+--- AtArabasi VURULDU: Piramit düşmana hançer fırlatıldı (Taban Hasar: 10) -> Zırh Koruması Sonrası Net Hasar: 10,0. [Kalan Can: 25,0]
+--- AtArabasi VURULDU: Bulut yıldırımla çarparak düşmanları dondurdu (Taban Hasar: 15) -> Zırh Koruması Sonrası Net Hasar: 15,0. [Kalan Can: 10,0]
+Buz kulesi 'AtArabasi' üzerine yavaşlatma uyguladı.
+--- AtArabasi VURULDU: Bulut yıldırımla çarparak düşmanları dondurdu (Taban Hasar: 15) -> Zırh Koruması Sonrası Net Hasar: 15,0. [Kalan Can: 35,0]
+Buz kulesi 'AtArabasi' üzerine yavaşlatma uyguladı.
+--- AtArabasi VURULDU: Piramit düşmana hançer fırlatıldı (Taban Hasar: 10) -> Zırh Koruması Sonrası Net Hasar: 10,0. [Kalan Can: 0,0]
+BİR ARABA HURDAYA DÖNDÜ!
+'AtArabasi' öldü. Ödül +10. Toplam Para: 15
+--- AtArabasi VURULDU: Piramit düşmana hançer fırlatıldı (Taban Hasar: 10) -> Zırh Koruması Sonrası Net Hasar: 10,0. [Kalan Can: 25,0]
+--- AtArabasi VURULDU: Bulut yıldırımla çarparak düşmanları dondurdu (Taban Hasar: 15) -> Zırh Koruması Sonrası Net Hasar: 15,0. [Kalan Can: 10,0]
+Buz kulesi 'AtArabasi' üzerine yavaşlatma uyguladı.
+--- AtArabasi VURULDU: Piramit düşmana hançer fırlatıldı (Taban Hasar: 10) -> Zırh Koruması Sonrası Net Hasar: 10,0. [Kalan Can: 0,0]
+BİR ARABA HURDAYA DÖNDÜ!
+'AtArabasi' öldü. Ödül +10. Toplam Para: 25
