@@ -19,6 +19,12 @@ Open the folder with Unity Hub (editor 6000.2.6f2 or newer; Hub offers to upgrad
 
 Checked: every scene/prefab reference resolves to a file in the repo or a Unity package; the two scenes are in the build settings.
 
+## Screenshot
+
+Game map with the path, tower slots and towers (figure from the report).
+
+![Game](docs/images/game.png)
+
 ## Report
 
 The full project report (PDF) is in `docs/report.pdf`.
